@@ -1,9 +1,9 @@
 # Healthcare-data-management
 
-`Team Members -   
-                 1. Aman Yadav
+```Team Members -   ```
+               ```  1. Aman Yadav
                  2. Aradhya Yadav
-                 3. Shreya Dwivedi `
+                 3. Shreya Dwivedi```
 
 Overview
 	The healthcare industry generates massive amounts of data every day, ranging from patient records and medical images to research findings and electronic health records. Managing and utilizing this data efficiently and securely is crucial for healthcare providers, researchers, and policymakers.
