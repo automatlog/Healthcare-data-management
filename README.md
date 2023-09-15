@@ -1,7 +1,9 @@
 # Healthcare-data-management
 
 Team Members -   1. Aman Yadav
+
                  2. Aradhya Yadav
+
                  3. Shreya Dwivedi 
 
 Overview
